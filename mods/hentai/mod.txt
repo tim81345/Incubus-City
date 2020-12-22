@@ -1,0 +1,69 @@
+<<set $db_imagemods.hentai = {
+  name: "Hentai City",
+  author: "Wape",
+  version: "1", 
+  stylesheet: true, 
+  url: "",
+  description: "Hentai mod made to test background replacements. Affects babysitter, fence, mailorder bride, motel girl, mother and girl in love, chairman's wife, as well as all the backgrounds.",
+  swaplist: {
+
+  "images/brand/logo.png" : "mods/hentai/logo.png", 
+
+  "images/in/babysitter/creampie.gif" : "mods/hentai/images/in/babysitter/creampie.gif", 
+  "images/in/babysitter/preg.jpg" : "mods/hentai/images/in/babysitter/preg.jpg", 
+  "images/in/babysitter/rape.gif" : "mods/hentai/images/in/babysitter/rape.gif", 
+  "images/in/babysitter/sex.gif" : "mods/hentai/images/in/babysitter/sex.gif", 
+  "images/in/babysitter/wife.gif" : "mods/hentai/images/in/babysitter/wife.gif", 
+  "images/in/babysitter/wife.jpg" : "mods/hentai/images/in/babysitter/wife.jpg", 
+  "images/in/babysitter/wifecard.jpg" : "mods/hentai/images/in/babysitter/wifecard.jpg", 
+  "baby001" : "mods/hentai/images/in/babysitter/face.jpg", 
+
+  "images/in/fence/form.png" : "mods/hentai/images/in/fence/form.png", 
+
+  "images/in/mailorder/dp.gif" : "mods/hentai/images/in/mailorder/dp.gif", 
+  "images/in/mailorder/dream.jpg" : "mods/hentai/images/in/mailorder/dream.jpg", 
+  "images/in/mailorder/fuck.gif" : "mods/hentai/images/in/mailorder/fuck.gif", 
+  "images/in/mailorder/fuck2.gif" : "mods/hentai/images/in/mailorder/fuck2.gif", 
+  "images/in/mailorder/fuck2.jpg" : "mods/hentai/images/in/mailorder/fuck2.gif", 
+  "images/in/mailorder/learn.jpg" : "mods/hentai/images/in/mailorder/learn.jpg", 
+  "images/in/mailorder/meet.jpg" : "mods/hentai/images/in/mailorder/meet.jpg", 
+  "images/in/mailorder/sex.gif" : "mods/hentai/images/in/mailorder/sex.gif", 
+  "images/in/mailorder/whore.gif" : "mods/hentai/images/in/mailorder/whore.gif", 
+  "images/in/mailorder/wife.gif" : "mods/hentai/images/in/mailorder/wife.gif", 
+  "images/in/mailorder/wife.jpg" : "mods/hentai/images/in/mailorder/wife.jpg", 
+  "images/in/mailorder/wifecard.jpg" : "mods/hentai/images/in/mailorder/wifecard.jpg", 
+
+  "images/in/motel/bj.gif" : "mods/hentai/images/in/motel/bj.gif", 
+  "images/in/motel/fuck.gif" : "mods/hentai/images/in/motel/fuck.gif", 
+  "images/in/motel/meet.gif" : "mods/hentai/images/in/motel/meet.png", 
+  "images/in/motel/preg.jpg" : "mods/hentai/images/in/motel/preg.png", 
+  "images/in/motel/sex nocondom.gif" : "mods/hentai/images/in/motel/sex nocondom.gif", 
+  "images/in/motel/strip.gif" : "mods/hentai/images/in/motel/strip.jpg", 
+  "images/in/motel/talk.gif" : "hide", 
+  "images/in/motel/wife.gif" : "mods/hentai/images/in/motel/wife.gif", 
+  "images/in/motel/wife.jpg" : "mods/hentai/images/in/motel/wife.png", 
+  "images/in/motel/wifecard.jpg" : "mods/hentai/images/in/motel/wifecard.jpg", 
+
+  "images/in/mother/wife.gif" : "mods/hentai/images/in/mother/wife.gif", 
+  "images/in/mother/wife.jpg" : "mods/hentai/images/in/mother/wife.jpg", 
+  "images/in/mother/wifecard.jpg" : "mods/hentai/images/in/mother/wifecard.jpg", 
+
+  "images/in/romance/hate.gif" : "mods/hentai/images/in/romance/hate.gif", 
+  "images/in/romance/later.gif" : "mods/hentai/images/in/romance/later.gif", 
+  "images/in/romance/love.gif" : "mods/hentai/images/in/romance/love.gif", 
+  "images/in/romance/preg.jpg" : "mods/hentai/images/in/romance/preg.jpg", 
+  'romance021' : "mods/hentai/images/in/romance/doggy2.gif", 
+  'romance041' : "mods/hentai/images/in/romance/doggy1.gif",
+
+  "images/in/chairman/bj.gif" : "mods/hentai/images/in/chairman/bj.jpg", 
+  "images/in/chairman/fuck.gif" : "mods/hentai/images/in/chairman/fuck.gif", 
+  "images/in/chairman/meet.jpg" : "mods/hentai/images/in/chairman/meet.png", 
+  "images/in/chairman/preg.jpg" : "mods/hentai/images/in/chairman/preg.png", 
+  "images/in/chairman/wife.gif" : "mods/hentai/images/in/chairman/wife.gif", 
+  "images/in/chairman/wife.jpg" : "mods/hentai/images/in/chairman/wife.png", 
+  "images/in/chairman/wifecard.jpg" : "mods/hentai/images/in/chairman/wifecard.jpg", 
+
+
+  "last" : ""
+  }
+} >>

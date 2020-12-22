@@ -1,0 +1,8 @@
+0 "Chastity"
+1 "Prudence"
+2 "Hope"
+3 "Faith"
+4 "Charity"
+5 "Joy"
+6 "Amos"
+7 "Smith"

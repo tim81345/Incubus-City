@@ -1,0 +1,100 @@
+
+
+
+/* BACKGROUND IMAGES */
+
+
+.mod_hentai.start, 
+.mod_hentai.end, 
+.mod_hentai.begining, 
+.mod_hentai.special         { background-image: url('images/bg/special.jpg'); }
+
+.mod_hentai.murder,
+.mod_hentai.death,
+.mod_hentai.kill            { background-image: url('images/bg/kill.jpg'); }
+
+.mod_hentai.alley           { background-image: url('images/bg/alley.jpg'); }
+.mod_hentai.apartment       { background-image: url('images/bg/apartment.jpg'); }
+.mod_hentai.bar             { background-image: url('images/bg/bar.jpg'); }
+.mod_hentai.beach           { background-image: url('images/bg/beach.jpg'); }
+.mod_hentai.beach2          { background-image: url('images/bg/beach2.jpg'); }
+.mod_hentai.bikerbar        { background-image: url('images/bg/bikerbar.jpg'); }
+.mod_hentai.cinema          { background-image: url('images/bg/cinema.jpg'); }
+.mod_hentai.city            { background-image: url('images/bg/city.jpg'); }
+.mod_hentai.cityhall        { background-image: url('images/bg/cityhall.jpg'); }
+.mod_hentai.citymap         { background-image: url('images/bg/citymap.jpg'); }
+.mod_hentai.crime           { background-image: url('images/bg/crime.jpg'); }
+.mod_hentai.condo           { background-image: url('images/bg/condo.jpg'); }
+.mod_hentai.condo-building  { background-image: url('images/bg/condo-building.jpg'); }
+.mod_hentai.den             { background-image: url('images/bg/den.jpg'); }
+.mod_hentai.dormroom        { background-image: url('images/bg/dormroom.jpg'); }
+.mod_hentai.frathouse       { background-image: url('images/bg/frathouse.jpg'); }
+.mod_hentai.fratroom        { background-image: url('images/bg/fratroom.jpg'); }
+.mod_hentai.girlroom        { background-image: url('images/bg/girlroom.jpg'); }
+.mod_hentai.highway         { background-image: url('images/bg/highway.jpg'); }
+.mod_hentai.home            { background-image: url('images/bg/home.jpg'); }
+.mod_hentai.hospital        { background-image: url('images/bg/hospital.jpg'); }
+.mod_hentai.hospital-room   { background-image: url('images/bg/hospital-room.jpg'); }
+.mod_hentai.hospital-interior{ background-image: url('images/bg/hospital-interior.jpg'); }
+
+.mod_hentai.hotel           { background-image: url('images/bg/hotel0.jpg'); }
+.mod_hentai.hotel0          { background-image: url('images/bg/hotel0.jpg'); }
+.mod_hentai.hotell,
+.mod_hentai.hotelL          { background-image: url('images/bg/hotelL.jpg'); }
+.mod_hentai.hotel1          { background-image: url('images/bg/hotel1.jpg'); }
+.mod_hentai.hotel2          { background-image: url('images/bg/hotel2.jpg'); }
+
+.mod_hentai.market          { background-image: url('images/bg/market.jpg'); }
+.mod_hentai.neighbourhood   { background-image: url('images/bg/neighbourhood.jpg'); }
+.mod_hentai.park            { background-image: url('images/bg/park.jpg'); }
+.mod_hentai.phone           { background-image: url('images/bg/phone.jpg'); }
+.mod_hentai.mansion         { background-image: url('images/bg/mansion.jpg'); }
+.mod_hentai.mansion-interior{ background-image: url('images/bg/mansion-interior.jpg'); }
+.mod_hentai.nicehouse       { background-image: url('images/bg/nicehouse.jpg'); }
+.mod_hentai.nicehouse-interior{ background-image: url('images/bg/nicehouse interior.jpg'); }
+.mod_hentai.sidestreet      { background-image: url('images/bg/sidestreet.jpg'); }
+.mod_hentai.vision          { background-image: url('images/bg/vision.jpg'); }
+.mod_hentai.washroom        { background-image: url('images/bg/washroom.jpg'); }
+
+.mod_hentai.motel           { background-image: url('images/bg/motel.jpg'); }
+
+.mod_hentai.suburb          { background-image: url('images/bg/suburb.jpg'); }
+.mod_hentai.suburb-day      { background-image: url('images/bg/suburb-day.jpg'); }
+
+.mod_hentai.dungeon         { background-image: url('images/bg/dungeon2.jpg'); }
+.mod_hentai.dungeon0        { background-image: url('images/bg/dungeon0.jpg'); }
+.mod_hentai.dungeon1        { background-image: url('images/bg/dungeon1.jpg'); }
+.mod_hentai.dungeon2        { background-image: url('images/bg/dungeon2.jpg'); }
+.mod_hentai.dungeon3        { background-image: url('images/bg/dungeon3.jpg'); }
+.mod_hentai.dungeon4        { background-image: url('images/bg/dungeon4.jpg'); }
+.mod_hentai.dungeon5        { background-image: url('images/bg/dungeon5.jpg'); }
+.mod_hentai.dungeon6        { background-image: url('images/bg/dungeon6.jpg'); }
+.mod_hentai.dungeon7        { background-image: url('images/bg/dungeon7.jpg'); }
+.mod_hentai.dungeon8        { background-image: url('images/bg/dungeon8.jpg'); }
+.mod_hentai.dungeon9        { background-image: url('images/bg/dungeon9.jpg'); }
+.mod_hentai.dungeon10       { background-image: url('images/bg/dungeon10.jpg'); }
+
+.mod_hentai.brothel         { background-image: url('images/bg/brothel.jpg'); }
+.mod_hentai.brothel-exterior{ background-image: url('images/bg/brothel-exterior.jpg'); }
+.mod_hentai.brothel-lobby   { background-image: url('images/bg/brothel-lobby.jpg'); }
+.mod_hentai.brothel-fuck    { background-image: url('images/bg/brothel-fuck.jpg'); }
+
+.mod_hentai.fuck            { background-image: url('images/bg/brothel-fuck.jpg'); }
+
+.mod_hentai.utopia          { background-image: url('images/bg/utopia.jpg'); }
+.mod_hentai.utopia2         { background-image: url('images/bg/utopia2.jpg'); }
+.mod_hentai.dystopia        { background-image: url('images/bg/dystopia.jpg'); }
+
+
+.mod_hentai.palace          { background-image: url('images/bg/palace.jpg'); }
+.mod_hentai.prison          { background-image: url('images/bg/prison.jpg'); }
+.mod_hentai.darkness        { background-image: url('images/bg/darkness.jpg'); }
+
+
+
+
+
+
+
+
+

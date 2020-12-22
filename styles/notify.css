@@ -1,0 +1,31 @@
+/*
+    notify.min.css, by chapel; for use with notify.js
+    version 1.0.0
+ */
+#notify {
+    position: fixed;
+    display: block;
+    width: 16em;
+    right: -20em; top: 2em;
+    padding: 0.5em;
+    background-color: rgba(255,255,255,0.9);
+	border-left: 6px solid #fff;
+    color: #000;
+	line-height: 1em;
+	text-shadow: none; 
+    -webkit-transition: right 0.4s;
+    -moz-transition: right 0.4s;
+    -o-transition: right 0.4s;
+    transition: right 0.4s;
+}
+#notify.open { right: 0; }
+
+#notify > * {
+	display: block;
+	margin: 4px 0;
+}
+
+#notify.preg { border-left: 6px solid #f08da8; }
+#notify.token { border-left: 6px solid #587781; }
+
+
